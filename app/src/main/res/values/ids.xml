@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sq_kilo" type="id" />
+    <item name="sq_centi" type="id" />
+    <item name="sq_metres" type="id" />
+    <item name="sq_hectare" type="id" />
+
+</resources>

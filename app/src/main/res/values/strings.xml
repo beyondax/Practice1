@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="square">Площадь</string>
+    <string name="cooking">Готовка</string>
+    <string name="currency">Валюта</string>
+    <string name="storage">Данные</string>
+    <string name="sq_kilo">Кв. километры</string>
+    <string name="energy">Энергия</string>
+    <string name="sq_metres">Кв. метры</string>
+    <string name="sq_centi">Кв. сантиметры</string>
+    <string name="hectare">Гектары</string>
+    <string name="temperature">Температура</string>
+    <string name="volume">Объем</string>
+    <string name="weight">Масса</string>
+    <string name="time">Время</string>
+    <string name="toast">Pressed!</string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="kilo">Километр</string>
+    <string name="power">Мощность</string>
+    <string name="mile">Миля</string>
+    <string name="metre">Метр</string>
+    <string name="centimetre">Сантиметр</string>
+    <string name="millimetre">Миллиметр</string>
+    <string name="micrometre">Микрометр</string>
+    <string name="speed">Cкорость</string>
+    <string name="default_text">1.0</string>
+</resources>
